@@ -1,29 +1,5 @@
 hertz - Coffeescript port of Radio.js
 --------------------------------------
-Author of Coffeescript port
-
-twitter: @_Bravado
-
-github: Tyler-Anderson
-
-website: brava.do
-
-
-
-Radio.js - Chainable, Dependency Free Publish/Subscribe for Javascript
-----------------------------------------------------------------------
-
-Documentation and Information: http://radio.uxder.com 
-
-Author: Scott Murphy 2012
-
-twitter: @hellocreation
-
-github: uxder
-
-
-
-
 
 Licensed under the MIT License
 
